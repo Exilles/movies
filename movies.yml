@@ -1,0 +1,11 @@
+---
+1: !ruby/object:Movie
+  title: World of Warcraft
+  director: Blizzard
+  year: '2016'
+  id: 1
+2: !ruby/object:Movie
+  title: Star Wars
+  director: Alan Walker
+  year: '2012'
+  id: 2
